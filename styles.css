@@ -9,7 +9,12 @@ h1 {
   color: #DBEDF3;
   font-family: "Hachi Maru Pop", cursive;
   text-shadow: 5px 5px 0 #DA0463;
+}
 
+#drumkit-logo {
+  padding-top: 1.5rem;
+  font-size: 3rem;
+  text-shadow: 0 0 50px #DA0463;
 }
 
 .icon {
