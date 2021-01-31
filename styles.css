@@ -7,15 +7,15 @@ h1 {
   padding-top: 3rem;
   font-size: 5rem;
   color: #DBEDF3;
-  font-family: "Hachi Maru Pop", cursive;
+  font-family: "Press Start 2P", cursive;
   text-shadow: 5px 5px 0 #DA0463;
 }
 
-#drumkit-logo {
+/* #drumkit-logo {
   padding-top: 1.5rem;
   font-size: 3rem;
   text-shadow: 0 0 50px #DA0463;
-}
+} */
 
 .icon {
   color: #DBEDF3;
@@ -24,31 +24,31 @@ h1 {
 }
 
 .w {
-
+  background-image: url(images/tom1.png);
 }
 
 .a {
-
+  background-image: url(images/tom2.png);
 }
 
 .s {
-
+background-image: url(images/tom3.png);
 }
 
 .d {
-
+background-image: url(images/tom4.png);
 }
 
 .j {
-
+background-image: url(images/kick.png);
 }
 
 .k {
-
+background-image: url(images/snare.png);
 }
 
 .l {
-
+background-image: url(images/crash.png);
 }
 
 .set {
